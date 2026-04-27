@@ -190,7 +190,7 @@ const Monkypolin = () => {
               GAME OVER
             </h2>
             <p className="text-2xl mb-8 font-bold text-center px-4">
-              Monkypolin Terjatuh!
+              MONYET HIDEUNG Terjatuh!
               <br />
               <span className="text-4xl text-white block mt-2">{score}</span>
             </p>
